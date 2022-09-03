@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Navigation Templates Demo</string>
+
+    <string name="mapbox_access_token">MAPBOX_ACCESS_TOKEN</string>
+
+    <!-- MenuScreen -->
+    <string name="load_track">Load Tracks</string>
+    <string name="demo">Navigation Demo</string>
+    
+    <!-- PermissionsScreen -->
+    <string name="permission_request_message">This app needs access to location in order to show the map around you</string>
+    <string name="grant_permission">Grant Access</string>
+    
+    <!-- TracksScreen -->
+    <string name="track_history">Track History</string>
+    <string name="track">Track %1$d</string>
+    <string name="distance_traveled">Traveled: %.2f Km.</string>
+</resources>
